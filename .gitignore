@@ -1,0 +1,16 @@
+# 保留目录结构，忽略所有文件，再白名单 .gitkeep 和 README
+*
+!.gitignore
+!README.md
+!blog/
+!blog/.gitkeep
+!blog/_shared/
+!blog/_shared/.gitkeep
+!weekly/
+!weekly/.gitkeep
+!lab/
+!lab/.gitkeep
+!product/
+!product/.gitkeep
+!site/
+!site/.gitkeep
